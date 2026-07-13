@@ -354,3 +354,8 @@ Run a benchmark:
 ./octra_vanity --benchmark --max-tries 1000000
 ```
 
+Beer donations:
+
+```
+oct11111mb5DKaFzHDsWqGxvEegLmea4epKmD5UwK8H3PJs
+```
